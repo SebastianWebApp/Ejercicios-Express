@@ -1,7 +1,7 @@
 import http from "node:http";
 const Servidor = http.createServer((req, res) => {
 
-    res.end("Como estas");
+    res.end("9+9=18");
 
 })
 
